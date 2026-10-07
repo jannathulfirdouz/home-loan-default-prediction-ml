@@ -2,7 +2,7 @@
 # Optimizing Home Loan Origination Decisions Using Machine Learning
 
 ## Overview
-This project develops machine learning models to improve mortgage loan approval decisions and credit risk assessment.
+This project develops machine learning models to improve Home loan approval decisions and credit risk assessment.
 
 The study applies machine learning techniques using SAS Viya to predict borrower risk and support data-driven decision-making in mortgage lending.
 
