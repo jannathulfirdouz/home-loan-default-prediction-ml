@@ -4,7 +4,7 @@
 
 ![Cover](results/figures/cover.png)
 
-📊 **Presentation:** [View PDF](Presentation/Home_Loan_Origination_Scorecard_Analysis.pdf) | [Download PowerPoint](presentation/Home_Loan_Origination_Scorecard_Analysis.pptx)
+📊 **Presentation:** [View PDF](Presentation/Home_Loan_Origination_Scorecard_Analysis.pdf) | [Download PowerPoint](Presentation/Home_Loan_Origination_Scorecard_Analysis.pptx)
 
 ## Overview
 
